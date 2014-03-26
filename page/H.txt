@@ -1,0 +1,35 @@
+[SECTION] H
+[HEADER] Health Authority
+The regional health board that has jurisdiction over the geographic area 
+[HEADER]Health Hazard
+Includes:
+(a)	the discharge of domestic sewage or effluent into
+(i)	a source of drinking water
+(ii)	surface water,
+(iii)	tidal waters, or
+(iv)	an onsite system that, in the opinion of an inspector, is not capable of 	containing or treating domestic sewage, and
+(b) 	the discharge of domestic sewage or effluent onto land;
+[HEADER]Heterotrophic
+Bacteria that can metabolize with or without molecular oxygen present in their environment
+[HEADER]Heterotrophs
+Organisms that take their carbon from an organic substrate for growth and development. A heterotroph is seen as a consumer in the food chain.
+[HEADER] Holding tank
+A watertight container for holding domestic sewage until the domestic sewage is removed for treatment;
+[HEADER]Humic acid
+The dark-colored organic material that can be extracted from soil with dilute alkali and other reagents and that is precipitated by acidification to pH 1 to 2.
+[HEADER]Humic substances
+A series of relatively high-molecular-weight, yellow to black coloured organic substances formed by secondary synthesis reactions in soils. The term is used in a generic sense to describe the coloured material or its fractions obtained on the basis of solubility characteristics. 
+[HEADER]Humification
+The process whereby the carbon of organic residues is transformed and converted to humic substances through biochemical and abiotic processes.
+[HEADER]Humin
+The fraction of the soil organic matter that cannot be extracted from soil with dilute alkali.
+[HEADER]Hydraulic Application Rate (HAR)
+Depth of effluent applied to the infiltrative surface per dose (example mm), may also be expressed in terms of volume per area (example L/m2).
+[HEADER]Hydraulic conductivity (soil)
+The ability of the soil to transmit water in liquid form through pores. This is termed “K” and is expressed in mm/day or other units of length/time. “Ksat” is saturated hydraulic conductivity and is normally the value intended when the term “hydraulic conductivity” is used. “Kfs” is the field saturated hydraulic conductivity, as measured by the Guelph or Pask in situ permeameter, and is approximately 0.5Ksat. 
+[HEADER]Hydrogen Peroxide
+H2O2, a strong oxidizing agent. Commonly used as a replacement for Chlorine based bleaches. 
+[HEADER]Hydrologic cycle
+The constant circulation of water from the sea, through the atmosphere, to the land, and back to the sea by over-land, underground, and atmospheric routes. 
+[HEADER]Hydrology
+The science of waters of the earth; water’s properties, circulation, principles, and distribution.

@@ -1,0 +1,37 @@
+[SECTION] D
+[HEADER]D10
+In Sieve analysis of sand or soil. The size of the opening which will pass 10% (by dry weight) of a sample and is also known as effective diameter.
+[HEADER]D60
+In Sieve analysis of sand or soil. The size of the opening which will pass 60% (by dry weight) of a sample.
+[HEADER]Daily Design Flow (DDF)
+Usually 1.5 to 2 times actual measured flow (actual flow) this includes a peaking factor, a safety factor and mass loading considerations. Also termed “design flow”
+[HEADER]Datalogger
+A datalogger is an electronic instrument that records measurements over extended periods of time. 
+[HEADER]Denitrification
+The biochemical reduction of nitrate or nitrite to gaseous molecular nitrogen or an oxide of nitrogen. 
+[HEADER]Detention time
+Average length of time a unit volume of wastewater or a suspended particle remains in a tank or chamber; for onsite tanks it is generally assumed to be the volume of water in the tank divided by the daily design flow rate through the tank. “Retention time” is often used interchangeably.
+[HEADER]Digestion
+The biological decomposition of organic matter in sludge, resulting in partial gasification, liquefaction, and mineralization. 
+[HEADER]Discharge /Dispersal area
+Means an area used to receive effluent discharged from a septic tank or other treatment method. 
+[HEADER]Disinfection
+The process of destroying pathogenic and other microorganisms in wastewater, typically through application of chlorine compounds, ultraviolet light, iodine or ozone.
+[HEADER]Dissolved oxygen (DO)
+The oxygen dissolved in water, wastewater, or other liquid, usually expressed in milligrams per litre (mg/L), parts per million (ppm), or percent of saturation. The ratio of the dissolved oxygen content (ppm) to the potential capacity (ppm) of the water gives the percent saturation. Oxygen saturation is calculated as the percentage of dissolved O2 concentration relative to that when completely saturated at the temperature of the measurement depth. As temperature increases, the concentration at 100% saturation decreases. The elevation, the barometric pressure, and the dissolved solids content of the water also affect this saturation value but to a lesser extent. The DO concentration for 100% air saturated water at sea level is 8.6 mg oxygen per L at 25°C and increases to 14.6 mg Oxygen per L at 0°C.
+[HEADER]Dissolved solids
+The fraction of solids dissolved in water. 
+[HEADER]Distal
+Furthest from a point of reference. The opposite of distal is proximal.
+[HEADER] Domestic sewage 
+Can include; 
+(a)	Human excreta, and 
+(b)	Waterborne waste from the preparation and consumption of food and drink, dishwashing, bathing, showering, and general household cleaning and laundry, 
+[HEADER]Drainage basin
+The land area that drains into a stream or other watercourse.
+[HEADER]Drainfield
+Shallow, covered, excavation made in unsaturated soil into which pretreated wastewater is discharged through distribution piping for application onto soil infiltration surfaces through porous media or manufactured (gravelless) components placed in the excavations. The soil accepts, treats, and disperses wastewater as it percolates through the soil, ultimately discharging to groundwater.
+[HEADER]Drawdown
+Drop in the liquid level of a tank (Example a drawdown test to establish pumping rate).
+[HEADER]Drywell
+Underground pit (usually partially lined) into which stormwater or wastewater is discharged and from which the liquid seeps into the surrounding soil. May also be filled with rock, in which case it is termed a “rock pit”.

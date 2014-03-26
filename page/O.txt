@@ -1,0 +1,28 @@
+[SECTION] O
+[HEADER]Observation Port
+Larger diameter (over 3”) pipe, open bottom or slotted, used to observe the soil infiltration surface.
+[HEADER]Oligotrophic lake
+Deep, clear lakes with low nutrient supplies. They contain little organic matter and have a high dissolved oxygen level.
+[HEADER]Onsite
+The entire system of sewage collection, treatment, and disposal. “onsite system” means a system for treating domestic sewage that uses one or more treatment methods and a discharge area, but does not include a holding tank or a privy;
+[HEADER]Onsite wastewater treatment system (OWTS)
+A system relying on natural processes and/or mechanical components that is used to collect, treat, and disperse/discharge wastewater from a single dwelling or building or a group of dwellings or buildings, where the effluent produced is dispersed on a property owned or controlled by the property owner.
+[HEADER]Organic load
+The amount of organic material in wastewater.
+[HEADER]Organic loading rate (to subsurface wastewater infiltration system)
+The rate of application of soluble and particulate organic matter. It is typically expressed on an area basis as g/m2 or pounds of BOD5 per square foot per day (lb/sq ft/day).
+[HEADER]Organic nitrogen
+Nitrogen combined in organic molecules such as proteins and amino acids. 
+[HEADER]Organic soil
+A soil that contains a high percentage (more than 15 to 20 percent) of organic matter throughout the soil column. 
+[HEADER]Owner 
+In respect of land on which an onsite system or holding tank is, or is required to be constructed under this regulation, includes
+(a)	a person registered in the land title records as the owner of the land, whether entitled to the land in the person’s own right, in a representative 	capacity or otherwise, 
+(b)	a lessee or a person holding a license to occupy the land, and
+(c)	if an onsite system or holding tank serves more than one parcel, strata lot or shared interest, the strata corporation or other corporate entity that 	developed the parcels, strata lot or shared interest, as applicable;
+[HEADER]Oxidation
+Chemical reaction in which a loss of electrons results in an increase in oxidation number (valence) of an element; occurs concurrently with reduction of the associated reactant. A chemical or biological conversion of organic matter to a simpler stable form with a concurrent release of energy.
+[HEADER]Oxygen transfer ratio
+Used to compare aeration systems; the amount of oxygen absorbed by a liquid compared to the amount delivered into the liquid through an aeration or oxygenation device, expressed as a percentage or ratio.
+[HEADER]Ozone
+Unstable form of oxygen (O3) used as an oxidizing, deodorizing, or bleaching agent, is sometimes used for disinfection.

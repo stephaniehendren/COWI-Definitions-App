@@ -1,0 +1,29 @@
+[SECTION] F
+[HEADER]Facultative
+In the case of Lagoons, having a mixed aerobic and anaerobic environment. In terms of microorganisms, Facultative aerobes or anaerobes can use oxygen when it is present, and then use fermentation or anaerobic respiration when it is absent or in low concentrations.
+[HEADER]Failure
+Condition in which an onsite system in its entirety is not performing its intended purpose. As opposed to a malfunction in which a component or groups of components are not functioning as intended.
+[HEADER]Fecal coliforms
+Members of the coliform group of bacteria that are characterized by their ability to ferment lactose at 112.1° Fahrenheit (44.5° Celsius) and that are considered more specific indicators of fecal contamination than are coliforms that ferment lactose only at 95° Fahrenheit (35° Celsius). Escherichia coli and some Klebsiella pneumoniae strains are the principal fecal coliforms. In the laboratory they are defined as all the organisms that produce blue colonies within 24 hours when incubated at 44.5C plus or minus 0.2C on M-FC medium (nutrient medium for bacterial growth). Their concentrations are expressed as numbers of colonies per 100 mL of sample. Commonly expressed as CFU (Coliform forming units) or MPN( most probable number)
+[HEADER]Fecal Streptococcal Bacteria
+A class of bacteria found in the intestine of warm-blooded animals. Their presence in water is considered to verify fecal pollution. They are characterized as gram-positive, cocci bacteria which are capable of growth in brain-heart infusion broth. In the laboratory they are defined as all the organisms that produce colonies which produce red or pink colonies within 24 hours at 35C plus or minus 1.0C on KF-streptococcus medium (nutrient medium for bacterial growth). Also expressed as CFU/100 mL.
+[HEADER]Fen
+A type of wetland that accumulates peat deposits. Fens are less acidic than bogs, deriving most of their water from groundwater rich in calcium and magnesium.
+[HEADER]Field capacity
+Upper limit of water-holding capacity for a soil. As a rule of thumb, the soil is at field capacity 24 hours after it has been soaked by rain.
+[HEADER]Fixed-film wastewater treatment system
+A biological wastewater treatment process that employs a medium such as rock, plastic, wood, or other natural or synthetic solid material that will support biomass on its surface. Fixed-film systems include those in which the medium is held in place and is stationary relative to fluid flow (tricking filter), those in which the medium is in motion relative to the wastewater (e.g., rotating biological disk), and dual process systems that include both fixed and suspended biomass together or in a series. 
+[HEADER]Fixture unit
+Relative estimate of discharge into a sanitary drain system by various types of plumbing fixtures; used in the determination of surge flow rates.
+[HEADER]Floor area
+The total area of the living space of a residence, bedrooms, living room, dining room, and depending on the local regulations the basement.
+[HEADER]Flow equalization
+System planned to include sufficient effluent storage capacity to accept variable flow from the source and provide, by timed dosing, limited rate dosing device or pump, or flow restrictive device, flow to subsequent components which has reduced or eliminated peaks.
+[HEADER]Footprint
+Plan view of the area and geometry of a subsurface wastewater infiltration system or other distribution component.
+[HEADER]Forcemain
+Pressurized pipeline, typically carrying effluent to the dispersal field. Also termed pressure main or transport pipe.
+[HEADER]Fresh water
+Water that generally contains less than 1000 milligrams per litre of dissolved solids such as salts, metals, nutrients, etc. See also part 2 of the SPM for definition in relation to horizontal separation standards.
+[HEADER]Fulvic acid
+The pigmented organic material that remains in solution after removal of humic acid by acidification. It is separated from the fulvic acid fraction by adsorption on a hydrophobic resin at low pH values. See also soil organic matter.

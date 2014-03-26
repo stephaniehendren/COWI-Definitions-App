@@ -1,0 +1,11 @@
+[SECTION] G
+[HEADER]Gravel
+Rounded or subrounded rock fragment that is between 0.1 inch (2 millimeters) and three inches (76 millimeters) in diameter. 
+[HEADER]Grease Interceptors
+Sometimes referred to as grease traps, are required to meet bylaw limits for discharge of fats, oils and grease  (FOG), which is primarily to protect against FOG buildup in sewers and resulting sanitary sewer overflows.
+[HEADER]Greywater
+Wastewater drained from sinks, tubs, showers, dishwashers, clothes washers, and other non-toilet sources. 
+[HEADER]Groundwater
+A subsurface water occupying the zone of saturated soil, permanently, seasonally, or as the result of the tides. 
+[HEADER]Groundwater Mounding
+Localized increase in the elevation of a water table that builds up as a result of the downward percolation of liquid into groundwater.

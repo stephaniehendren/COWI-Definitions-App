@@ -1,0 +1,17 @@
+[SECTION] T
+[HEADER]Texture
+The relative proportions of the various soil separates (e.g., silt, clay, sand) in a soil. 
+[HEADER]Topsoil
+The layer of soil moved in agricultural cultivation. 
+[HEADER]Total dynamic head requirement (TDHR)
+Measure of the cumulative energy that a pump must impart to a liquid to move it from one point to another, consisting of the sum of any residual head required, suction head (where applicable) plus friction head losses and static head.
+[HEADER]Total Kjeldahl nitrogen (TKN)
+An analytical method for determining total organic nitrogen and ammonia. 
+[HEADER]Total suspended solids (TSS)
+The residue that is retained after filtering a sample of water or wastewater through a standard glass-fiber filter. The concentration of total suspended solids is the weight of the dried solids retained on the filter, divided by the volume of the sample from which the solids were collected. This is normally expressed as mg/L. 
+[HEADER]Transpiration
+The process by which water absorbed by plants, usually through the roots, is evaporated into the atmosphere from the plant surface, principally from the leaves.
+[HEADER]Treatment Method
+Means a treatment method for domestic sewage
+[HEADER]Turbidity
+Cloudiness caused by the presence of suspended solids in water; an indicator of water quality. Turbidity is related to TSS. The most widely used measurement unit for turbidity is the FTU (Formazin Turbidity Unit)

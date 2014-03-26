@@ -1,0 +1,15 @@
+[SECTION] V
+[HEADER]Vadose zone
+Aerated region of soil (normally unsaturated) above the permanent water table.
+[HEADER]Vapour
+The gaseous phase of substances that is liquid or solid at atmospheric temperature and pressure, e.g. steam.
+[HEADER]Vector
+An organism that transmits diseases or infections; by extension, any organism that transports foreign living material. As an example, a housefly is a vector when it transmits pathogens from exposed human waste to food.
+[HEADER]Vegetated submerged bed
+A constructed wetland wastewater treatment unit characterized by anaerobic horizontal subsurface flow through a fixed-film medium that has a growth of plants on the surface. 
+[HEADER]Vertical separation (native soil) (VS)
+The depth of unsaturated, original, undisturbed permeable soil below the infiltrative surface and above any limiting layer.
+[HEADER]Vertical separation (as constructed)
+The depth of unsaturated, original, undisturbed permeable soil below the infiltrative surface and above any limiting layer PLUS the depth of sand media between the infiltrative surface and the native soil.
+[HEADER]Virus
+An organism too small to be seen by light microscopy which is an obligate parasite dependent on a host cell for its metabolic and reproductive needs.

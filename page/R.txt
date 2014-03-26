@@ -1,0 +1,33 @@
+[SECTION] R
+[HEADER]Raised subsurface wastewater infiltration system
+With infiltrative surface raised above original grade on sand or other material. 
+[HEADER]Recharge
+The processes involved in the addition of water to the zone of saturation of water added.
+[HEADER]Recirculating
+System designed so that a portion of treated effluent is returned to the treatment component for further treatment or to facilitate a treatment process. 
+[HEADER]Recirculation ratio
+Proportion of effluent returned to the treatment component compared to the amount of forward flow to the next component of the treatment train.
+[HEADER]Redox concentrations
+Zones of apparent accumulation of Fe-Mn oxides in soils. 
+[HEADER]Redox depletions
+Zones of low chroma (2 or less) where Fe-Mn oxides alone or both Fe-Mn oxides and clay have been stripped out of the soil. Iron concentrations occur as bright (red or yellow) spots in a reduced (gray) matrix.  Iron depletions occur as reduced (gray) spots in an oxidized (red or yellow) matrix. 
+[HEADER]Redoximorphic features
+Or mottling, is identified by the presence of oxidized and reduced states of iron or manganese in the same ped (single unit of soil structure).  In more highly weathered soils, it is identified as concentrations and depletions of iron. 
+[HEADER]Reduction
+Addition of electrons to a chemical entity decreasing its valence or oxidation number; for example under anaerobic conditions (no dissolved oxygen present), sulfur compounds are reduced by bacteria to odor-producing hydrogen sulphide (H2S) and other compounds.
+[HEADER]Relief drain
+Drain used to lower groundwater table. May also be referred as tile drain or French drain.
+[HEADER]Relief line
+Solid pipe or device used to convey effluent to succeeding trenches in systems using serial or sequential distribution. May be termed “step-down” where second trench is at a lower level.
+[HEADER]Residuals
+The solids generated and retained during the treatment of domestic sewage in treatment system components, including sludge, scum, and accumulations from grease traps, septic tanks, aerobic treatment units, and other components of an onsite or cluster system. 
+[HEADER]Residuum or Residual (soil)
+Soil formed in place by natural weathering. Soil formed from, or resting on, consolidated rock of the same kind as that from which it was formed and in the same location.
+[HEADER]Restrictive Layer
+A restrictive layer is a water table or seasonal high water table, bed rock or impermeable soil.  
+[HEADER]Retention time
+Time for which a liquid or sludge is retained in a process component (Example in a lagoon). 
+[HEADER]Runoff
+Precipitation, snow melt, or irrigation in excess of what can infiltrate the soil surface in a defined area.
+[HEADER]Runon
+Surface water that enters a defined area.

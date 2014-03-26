@@ -1,0 +1,21 @@
+[SECTION] N
+[HEADER]Natural flow
+The flow of a stream as it would be if unaltered by upstream diversion, storage, import, export, or change in upstream consumptive use caused by development.
+[HEADER]Nephalometric turbidity unit (NTU)
+Unit of measurement used to estimate the clarity of water; the nephelometer passes light though a sample and the amount of light deflected (usually at a 90 degree angle) is then measured. 
+[HEADER]Nitrification
+The biochemical oxidation of ammonium to nitrate. 
+[HEADER]Nitrogen (N)
+Gaseous element (molecular formula N2); nitrogen is present in wastewater, surface water and groundwater as ammonia (NH3) or ammonium ion (NH4+), nitrite (NO2-), nitrate ion (NO3-) and organic nitrogen.
+[HEADER]Nitrogen, Kjeldahl
+Combination of ammonia nitrogen (NH3) and organic nitrogen in a wastewater sample analyzed by a specific process in the laboratory.
+[HEADER]Nitrogen, organic
+Nitrogen bound in plant and animal matter. The amount of organic nitrogen may be obtained by separately measuring the ammonia nitrogen and subtracting that value from the total Kjeldahl nitrogen. 
+[HEADER]Nitrogen, total
+Measure of the complete nitrogen content in a sample, expressed as mg/L. 
+[HEADER]Nitrogen, total Kjeldahl (TKN)
+Measure of the total concentration of organic nitrogen, ammonia, and ammonium nitrogen.
+[HEADER]NSF
+National Sanitation Foundation. NSF International is committed to protecting and improving human health on a global scale. NSF International is an independent, not-for-profit organization that provides standards development, product certification, auditing, education and risk management for public health and the environment. Manufacturers, regulators and consumers alike look to NSF International for the development of public health standards and certification that help protect the world's food, water, and health and consumer products.
+[HEADER]Nutrient
+A raw material for growth and development of an organism. As a pollutant, any element or compound, such as phosphorous or nitrogen, that fuels abnormally high organic growth in aquatic ecosystems (e.g., eutrophication of a lake).

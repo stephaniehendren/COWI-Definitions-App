@@ -1,0 +1,99 @@
+[SECTION] P
+[HEADER]Package treatment plant (PTP)
+Term used to describe pre-engineered and pre-built treatment plant for onsite systems.
+[HEADER]Parcel
+Means any lot, block or other area in which land is held or into which it is subdivided, but does not include land covered by water;
+[HEADER]Particle size
+The effective diameter of a particle, usually measured by sedimentation or sieving. 
+[HEADER]Particle size distribution
+The amounts of the various soil size fractions in a soil sample, usually expressed as weight percentage. 
+[HEADER]Parts per million (ppm)
+The number of “parts” by weight of a substance per million parts of water. This unit is commonly used to represent small pollutant concentrations. 
+[HEADER]Pathogen
+Microorganisms that cause infectious diseases. 
+[HEADER]Peat
+Organic soil material formed in wetlands, in which the original plant parts are recognizable.
+[HEADER]Ped
+A unit of soil structure such as an aggregate, crumb, prism, block, or granule, formed by natural processes. Shapes include granular, platy, blocky and prismatic.  Ped sizes can range from 1mm granules to 10 cm prisms.
+[HEADER]Peer reviewed
+Documentation and related material that has been read by experts in the field to evaluate its validity before publication. 
+[HEADER]Perched water table
+The permanent or temporary water table of a discontinuous saturated zone in a soil. The water table is “perched” upon the restrictive layer, while the normal water table is deeper in the soil profile.
+[HEADER]Percolation
+The flow or trickling of a liquid downward through a contact or filtering medium. 
+[HEADER]Percolation Rate, Percolation Time
+Also known as the “T” Time. Percolation Time (min/cm) = Time Interval (minutes) / Average drop of the last 3 readings (cm). 
+[HEADER]Performance-based management program
+A program designed to preserve and protect human health and environmental resources by focusing on the achievement of specific, measurable performance requirements based on site assessments. 
+[HEADER]Performance boundaries
+The point at which a wastewater treatment performance requirement corresponding to the desired level of treatment at that point in the treatment sequence is applied. Performance boundaries can be designated at the a point of the pretreatment system (e.g., septic tank, package plant), at physical boundaries in the receiving environment (impermeable strata, ground water table, breakout), at a point of use (ground water well), or at a property boundary.
+[HEADER]Performance requirement
+A requirement established by a regulatory authority to ensure future compliance with the public health and environmental goals. Performance requirements can be expressed as numeric limits (e.g., pollutant concentrations, mass loads, wet weather flows, and structural strength) or narrative descriptions of desired performance, such as no visible leaks or no odors. 
+[HEADER]Permanent wilting point (PWP)
+The largest water content of a soil at which indicator plants, growing in that soil, wilt and fail to recover when placed in a humid chamber. Often estimated by the water content at -1.5 MPa 
+[HEADER]Permeable
+Allowing water to enter and pass through.
+[HEADER]Permeability
+The ability of a porous medium such as soil to transmit fluids or gases. 
+[HEADER]pH
+A term used to indicate the acidity or alkalinity of the water. The logarithm of the reciprocal of hydrogen-ion concentration in gram atoms per litre; provides a measure on a scale from 0 to 14 of the acidity or alkalinity of a solution (where 7 is neutral and greater than 7 is more alkaline and less than 7 is more acidic). 
+[HEADER]Pharmaceutical and personal care product (PPCP)
+Chemical substance such as a prescription or over-the-counter therapeutic drug, fragrance, cosmetic, sunscreen agent, diagnostic agent, among others; these are increasingly found to be having negative environmental impact and may impact performance of an onsite system.
+[HEADER]Phosphorous (P)
+Chemical element and essential nutrient for all life forms, occurring as orthophosphate, pyrophosphate, tripolyphospate and organic phosphate forms; each of these forms, as well as their sum (total phosphorous), is expressed in terms of milligrams per litre elemental phosphorous; occurs in natural waters and wastewater almost solely as phosphates.
+[HEADER] Photosynthesis
+The manufacture by plants of carbohydrates and oxygen from carbon dioxide and water in the presence of chlorophyll, using sunlight as an energy source
+[HEADER]Physical boundaries
+Points in the flow of wastewater through the treatment system where treatment processes change. A physical boundary can be at the intersection of unit processes or between saturated and unsaturated soil zones. A physical boundary may also be a performance boundary if so designated in the design or in standard practice. 
+[HEADER]Phytoplankton
+Usually microscopic aquatic plants, sometimes consisting of only one cell.
+[HEADER]Piezometer
+A type of monitoring well designed solely to obtain ground water levels
+[HEADER]Plastic soil
+A soil capable of being molded or deformed continuously and permanently by relatively moderate pressure. 
+[HEADER]Platy structure (soil)
+Laminated or flaky soil aggregate developed predominantly along the horizontal axes.
+[HEADER]Plow, chisel
+Shank tillage implement that disrupts the soil, used to scarify basal area for sand mounds etc.
+[HEADER]Polysaccharide
+A class of high-molecular-weight carbohydrates, colloidal complexes, which break down on hydrolysis (digestion by microorganisms) to monosaccharides containing five or six carbon atoms.
+[HEADER]Polyuronides
+Polymers of uronic acids (glucuronic acid, galacturonic acid). Example; the pectins are polyuronides.
+[HEADER]Pond
+A small natural body of standing fresh water filling a surface depression, usually smaller than a lake.
+[HEADER]Ponding
+Accumulation of liquid on an infiltrative surface. 
+[HEADER]Precipitation
+Water falling, in a liquid or solid state, from the atmosphere to a land or water surface.
+[HEADER]Preferential flow
+Saturated flow in macropores or as finger or funnel flow in unstructured soils, it is the rapid and local transport of water and solutes in soils. For good in soil treatment this type of flow is to be avoided. 
+[HEADER]Prescriptive requirements
+Standards or specifications for design, siting, and other procedures and practices for onsite or cluster system applications. Proposed deviations from the specified criteria, procedures, or practices require formal approval by a regulatory authority. 
+[HEADER]Pressure transducer
+Device that measures pressure, a control panel or datalogger is used to convert that information to a measurement of depth or flow. 
+[HEADER]Pressurized shallow narrow drainfield (PSND)
+in which highly-treated effluent is distributed into trenches installed in the upper portion (8 to 12 inches) of the soil profile and time dosed via pressurized distribution laterals.
+[HEADER]Pretreatment system
+Any technology or combination of technologies that precedes discharge to a subsurface wastewater infiltration system.
+[HEADER]Primary treatment
+Level of treatment involving removal of particles, typically by settling and flotation with or without the use of coagulants; some solids are anaerobically broken down but dissolved contaminants are not significantly removed in this treatment step (e.g. a grease interceptor or a septic tank provides primary treatment). 
+[HEADER]Privy
+A structure used for disposal of human waste without the aid of water; it consists of a shelter built above a pit or vault in the ground into which human waste falls. The vault may be impermeable (vault privy) or may include soil absorption (pit latrine or pit privy).
+[HEADER]Prokaryotes
+Organisms without a cell nucleus or any other membrane-bound organelles. Most are unicellular. Bacteria are prokaryotes.
+[HEADER]Proximal
+Nearest to a point of reference. The opposite of proximal is distal.
+[HEADER]Pump, axial
+An impeller that resembles a propeller imparts velocity to fluid. Characterized by high flow rate and low head. 
+[HEADER]Pump, centrifugal
+A set of rotating vanes (impellers) are enclosed in a housing (volute); the impeller draws liquid in and discharges it from the pump under pressure.
+[HEADER]Pump curve
+Graph supplied by the pump manufacture showing the relationship between the head and the capacity of a particular pump; the curve may also include efficiency and power consumption curves.
+[HEADER]Pump, grinder
+Shreds solids in a waste stream and ejects the resulting mixture under pressure.
+[HEADER]Pump, progressive cavity
+Transfers fluid by means of a sequence of small, fixed shape, discrete cavities, that move through the pump as its rotor turns within a stator. Characterized by a relatively fixed flow rate regardless of head. Also termed progressing cavity.
+[HEADER]Pump, radial
+Impeller is a turbulent mixer that causes tank fluid to flow perpendicular to the impeller’s axis of rotation; types of radial flow impellers include disk-style flat blade turbines and curved blade turbines; used in dispersion processes.
+[HEADER]Pump, turbine
+Submersible pump with stacked impellers (normally of mixed axial centrifugal type).

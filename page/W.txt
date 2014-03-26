@@ -1,0 +1,19 @@
+[SECTION] W
+[HEADER]Water budget
+In general use this is a hydrological formula used to determine water surpluses and deficits in a given area, providing a budget of the incoming and outgoing water from a region, including rainfall, evaporation, runon, runoff, and seepage (absorption). For an Onsite system (Example ETA or ET bed) this is used to provide a balance sheet for the inputs and outputs of water to the unit.
+[HEADER]Water contamination
+Impairment of water quality to a degree that reduces the usability of the water for ordinary purposes or creates a hazard to public health through poisoning or the spread of diseases.
+[HEADER]Water holding capacity (WHC) (soil)
+For a soil is the difference in volumetric water content between the field capacity and the permanent wilting point.
+[HEADER]Water supply system
+The collection, treatment, storage, and distribution of potable water from source to consumer.
+[HEADER]Water table
+(Seasonal Low Water Table) (Permanent Water Table) The level in saturated soil at which the hydraulic pressure is zero (i.e. equal to atmospheric pressure). 
+[HEADER]Watershed
+The land area that drains into a stream.
+[HEADER]Weathering
+(Soils) Rock, other soil parent materials and larger particles broken down over time by several types of weathering. Mechanical Weathering is physical crushing and abrasion. Chemical Weathering involves chemicals breaking down the material (example Carbonic acid breaking down limestone).
+[HEADER]Well
+A hole constructed into the ground for the purpose of extracting groundwater.
+[HEADER]Wetland
+Area that is inundated or saturated by surface or groundwater at a frequency and duration sufficient to support, and that under normal circumstances do support, a prevalence of vegetation typically adapted for life in saturated soils conditions; natural wetlands generally include swamps, marshes, bogs and similar areas, but not constructed wetlands used in wastewater treatment.

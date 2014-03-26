@@ -1,0 +1,55 @@
+[SECTION] M
+[HEADER]Macrofauna (soil)
+Mice, moles, etc.; Earthworms and other worms; Ants, beetles, termites, spiders, flies and larvae, etc. Note that macro and meso fauna are often loosely termed “macrofauna”.
+[HEADER]Macroflora (soil)
+Vasculaire plants, Mosses, etc. 
+[HEADER]Macropore (soil)
+The term includes all pores that are drained at field capacity, normally stated that these are of 1mm or larger equivalent diameter. This includes root channels and soil macro structure. These pores are the main path for preferential (rapid saturated) flow in structured soils and fractured rock. Coarse are >5mm, medium 2-5 mm and fine are 1-2 mm.
+[HEADER] Maintenance
+1) the work carried out to maintain the function of a system or component
+2) in the case of a professional includes supervising the maintenance of an onsite system
+[HEADER] Maintenance Plan
+A set of instructions for maintaining an onsite system that, if followed, will ensure that the onsite system does not cause, or contribute to, a health hazard;
+[HEADER]Manifold
+Pipe having several inlets or outlets through which a liquid is collected and distributed.
+[HEADER]Marsh
+A type of wetland that does not accumulate appreciable peat deposits and is dominated by herbaceous vegetation. Marshes may be either fresh water or saltwater and tidal or non-tidal.
+[HEADER]Mass load
+The amount of organic material in wastewater, and may also be referred to as organic load.
+[HEADER]Mass loading
+The rate of application of soluble and particulate organic matter. 
+[HEADER]Matric potential
+A component of water potential due to the adhesion of water molecules to nondissolved structures, i.e. the matrix, such as or soil particles. It is always negative and is significant  in relatively dry systems, for example soils, where much of the water is tightly bound to soil particles.
+[HEADER]Matric suction
+The amount of work that must be done per unit of a specified quantity of pure water in order to transport reversibly and isothermally an infinitesimal quantity of water from a specified source to a specified destination. 
+[HEADER]Matrix flow
+The relatively slow and even movement of solutes through the soil, with flow occurring on, through and around the soil particles and aggregates rather than primarily in pores and fractures. 
+[HEADER]Mechanical Weathering
+Weathering by physical crushing and abrasion. 
+[HEADER]Media, distribution
+Material used to provide void space (usually in a dispersal component) through which effluent flows and is stored prior to infiltration (e.g., washed stone, aggregate, polystyrene blocks, chambers, etc.).
+[HEADER]Media, treatment
+Non-degradable material used for physical, chemical and/or biological treatment in a wastewater treatment component. 
+[HEADER]Mesofauna (soil)
+Nemaodes, arthropods (mites, centipedes, and springtails), molluscs 
+[HEADER] Mesopore
+Pores in soil intermediate between micro and macro pores. 
+[HEADER]Methanogenic
+Methane producing phase in anaerobic decomposition (example in a septic tank). Methane forming bacteria use organic acids produced during the Acid phase of decomposition, and produce methane gas as a byproduct.
+[HEADER]Microfauna (soil)
+Protozoa
+[HEADER]Microflora (soil)
+Bacteria, Actinomycetes, Fungi, Algae 
+[HEADER]Micropore
+The smaller pores in the soil. They contain both available and unavailable water (in terms of plant water use). Many of the soil microbes are found here. Equivalent diameter normally stated to be less than 0.03 mm.
+[HEADER]Mineralization
+The conversion of an element from an organic form to an inorganic state as a result of microbial decomposition. 
+[HEADER]Mixed liquor (ML)
+Oxygenated primary treated sewage (wastewater) combined with organisms to develop a biological floc which reduces the organic content of the sewage. 
+[HEADER]Mixed liquor suspended solids (MLSS)
+The volume of suspended solids in the mixed liquor of an aeration tank.
+[HEADER]Most probable number (MPN)
+Estimate of the density of microorganisms in a sample based on certain growth rates and statistical formulas, commonly used for coliform bacteria. The MPN method involves taking the original solution or sample, and subdividing it by orders of magnitude (frequently 10× or 2×), and assessing presence/absence in multiple subdivisions.
+[HEADER]Mottling
+Spots or blotches of different colors or shades of color interspersed with the dominant soil color caused in part by exposure to alternating unsaturated and saturated conditions.
+[HEADER]Munsell Color System: Color designation system that specifies the relative degrees of the three variables of color: hue, value, and chroma. Example: 10YR 6/4 is a color (of soil) with a hue = 10YR, value = 6, and chroma = 4; 

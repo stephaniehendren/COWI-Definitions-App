@@ -1,0 +1,100 @@
+[SECTION] S
+[HEADER]Sand filter
+A packed-bed filter of sand or other granular materials used to provide advanced secondary treatment of settled wastewater or septic tank effluent. Sand/media filters consist of a lined (e.g., impervious PVC liner on sand bedding) excavation or structure filled with uniform washed sand that is placed over an under drain system. The wastewater is dosed onto the surface of the sand through a distribution network and allowed to percolate through the sand to the underdrain system, which collects the filtered effluent for further processing or discharge.   [sub header] Intermittent Sand Filter: a sand filter in which pre-treated wastewater is applied periodically providing intermittent periods of wastewater application, followed by periods of drying and oxygenation of the filter bed. 
+[sub header] Recirculating Sand (Gravel) Filter: a sand (gravel) filter which processes liquid waste by mixing filtrate with incoming septic tank effluent and recirculating it several times through the filter media before discharging to a final treatment/disposal unit.  [sub header] Sand-Lined Drainfield Trench: a combination of a pressure distribution drainfield and an intermittent sand filter consisting of a two-foot layer of sand filter media placed directly below the drain rock layer in the pressure distribution drainfield trench.  
+[HEADER]Sand mound
+A sand mound is a sand filter constructed without containment and dispersing directly to a basal area of native soils.
+[HEADER]Sanitary tee
+Pipe configuration in the shape of a “T” with a long-sweep radius side arm.
+[HEADER]Saprolite
+A chemically weathered rock. It is mostly soft or friable and commonly retains the structure of the parent rock since it is not transported, but formed in place. 
+[HEADER]Saturated soil
+Condition wherein all available soil pore space is occupied by water.
+[HEADER]Scarify
+Scratching the infiltrative (or basal infiltrative) surface prior to installation of a final treatment and dispersal component.
+[HEADER]Scum
+Layer of particles and lighter liquids floating on a liquid surface such as fats, oils and grease.
+[HEADER]Seasonal High Water Table (SHWT)
+Upper limit of soil water table which persists for more than 20 consecutive or 30 total days during a year, as  determined by piezometer data combined with rainfall data, and/ or methods of soil and site assessment.  
+[HEADER]Sediment
+Fragmented organic or inorganic material derived from the weathering of soil, alluvial, and rock materials; removed by erosion and transported by water, wind, ice, and gravity.
+[HEADER]Sedimentation
+Settling of solid material out of a liquid, normally achieved by reducing the velocity of the liquid below the point at which it can transport the suspended material; this may be enhanced by coagulation and flocculation. Also termed settling.
+[HEADER]Septage
+The liquid, solid, and semisolid material that results from wastewater treatment in a septic tank, or treatment method which must be pumped, hauled, treated, and disposed of properly. 
+[HEADER]Septic tank
+A buried, watertight tank designed and constructed to receive and partially treat raw wastewater. The tank separates and retains settleable and floatable solids suspended in the raw wastewater. Settleable solids settle to the bottom to form a sludge layer. Grease and other light materials float to the top to form a scum layer. The removed solids are stored in the tank, where they undergo liquefaction in which organic solids are partially broken down into dissolved fatty acids and gases. Gases generated during liquefaction of the solids are normally vented through the building’s plumbing stack vent. 
+[HEADER]Septic tank effluent pump (STEP)
+Collection system that uses septic tanks and pumping systems and collects effluent to a common treatment facility using a pressure sewer (collector forcemain).
+[HEADER]Sequencing batch reactor (SBR)
+A sequential suspended- growth (activated sludge) process in which all major steps occur in the same tank in sequential order. Sequencing batch reactors include intermittent- flow batch reactors and continuous-flow systems. 
+[HEADER]Settleable solids
+Matter in wastewater that will not stay in suspension during a designated settling period. 
+[HEADER]Sewage
+Any urine, feces, and the water carrying human wastes including kitchen, bath, and laundry wastes from residences, building, industrial establishments or other places,  
+[HEADER]Sewage collection system
+System of conduits, typically underground pipes (sewers) that receives and conveys sewage. The term “collection system” is used to include collection of effluent. Also termed “sewage system”.
+[HEADER]Sewer
+A channel or conduit that carries wastewater and storm water runoff from the source to a treatment plant or receiving stream.
+[HEADER]Sideslope (Sand mounds)
+Slope of sand and cover soil fill.
+[HEADER]Silt
+A textural class of soils consisting of particles between 0.05 and 0.002 millimetres in diameter. 
+[HEADER]Slope Shape
+Any land that gradually rises in any direction 
+[HEADER]Sludge
+The accumulated solids and entrained water within a pretreatment component, generated during the biological, physical, or chemical treatment; coagulation; or clarification of wastewater.
+[HEADER]Sludge return
+Process that sends all or part of the material settled in a clarifier back to a septic or processing tank for further treatment.
+[HEADER]Soil consistence
+Attribute of soil expressed in degree of cohesion and adhesion, or in resistance to deformation or rupture. Consistence includes the resistance of soil material to rupture; resistance to penetration; and the manner in which the soil material behaves when subjected to compression.
+[HEADER]Soil horizon
+A layer of soil or soil material approximately parallel to the land surface and different from adjacent layers in physical, chemical, and biological properties or characteristics such as color, structure, texture, consistence, and pH. 
+[HEADER]Soil map
+A map showing the distribution of soil types or other soil mapping units in relation to the prominent physical and cultural features of the earth’s surface. 
+[HEADER]Soil matrix
+The portion of a given soil having the dominant colour, in most cases, the matrix will be the portion of the soil having more than 50 percent of the same colour.  May also be loosely used to mean the solid body of the soil, including the mineral soil particles and soil aggregates.
+[HEADER]Soil morphology
+The physical constitution, particularly the structural properties, of a soil profile as exhibited by the kinds, thickness, and arrangement of the horizons in the profile and by the texture, structure, consistence, and porosity of each horizon. 
+[HEADER]Soil ped
+A single unit of soil structure such as an aggregate, crumb, prism, block, or granule, formed by natural processes. Shapes include granular, platy, blocky and prismatic. Ped sizes can range from 1mm granules to 10 cm prisms.
+[HEADER]Soil profile
+Vertical section of the soil through all its horizons and extending into the C horizon, used to asses soil morphology 
+[HEADER]Soil structure
+The combination or arrangement of individual soil particles into definable aggregates, or peds, which are characterized and classified on the basis of size, shape, and degree of distinctness. 
+[HEADER]Soil survey
+The systematic examination, description, classification, and mapping of soils in an area. 
+[HEADER]Soil textural class
+Percentage by weight of sand silt and clay such that each class possesses unique physical characteristics and management relative to the other textural class. The textural classes may be modified by the addition of suitable adjectives when rock fragments are present in substantial amounts; for example, “gravelly loam”.
+[HEADER]Soil texture
+The relative proportions of the various soil separates (e.g., silt, clay, sand) in a soil. 
+[HEADER]Spalling
+Where the surface of a concrete component is physically or chemically degraded, exposing aggregate and/or structural reinforcement materials. 
+[HEADER]Spring
+An area where groundwater flows naturally onto the land surface.
+[HEADER]Standard Practice
+A method of constructing and maintaining an onsite system that will ensure that the onsite system does not cause or contribute to a health hazard.
+[HEADER]Standpipe
+Pipe, slotted or open bottom, which is used to measure the depth of the water table. A standpipe would normally not be sealed, and would normally be slotted over most of its length. 
+[HEADER]Stormwater
+Precipitation-generated runoff.
+[HEADER]Stream
+A body of running water moving under gravity flow through clearly defined natural channels to progressively lower levels.
+[HEADER]Streamflow
+Is the flow of water in streams, rivers, and other channels.
+[HEADER]Sublimation
+The transition of a substance from the solid phase directly to the vapour phase, or vice versa, without passing through an intermediate liquid phase. For Onsite, this is the process whereby ice changes directly to water vapour without first going through the liquid state.
+[HEADER]Subsoil
+In general, that part of the soil below the depth of plowing. 
+[HEADER]Subsurface wastewater infiltration system (SWIS)
+An underground system for dispersing wastewater. The subsurface wastewater infiltration system includes the distribution piping/units, any media installed around or below the distribution components, the biomat at the wastewater-soil interface, and the unsaturated soil below. The subsurface wastewater infiltration system may be installed below, at or above grade (in terms of the original soil surface).
+[HEADER]Surface water
+All water naturally open to the atmosphere (rivers, lakes, reservoirs, streams, impoundments, seas, estuaries, etc.); also refers to springs, wells, or other collectors that are directly influenced by surface water.
+[HEADER]Suspended solids (SS)
+The residue that is retained after filtering a sample of water or wastewater through a standard glass-fiber filter. The concentration of total suspended solids is the weight of the dried solids retained on the filter, divided by the volume of the sample from which the solids were collected. This is normally expressed as mg/L. In the onsite systems industry SS is referred to as Total Suspended Solids (TSS). Total dissolved (TDS) is material that passes the standard glass fiber filter, typically expressed in mg/L.
+[HEADER]Swale
+Natural or constructed elongated depression drainage feature used to divert run on or runoff and direct the flow to an effective outlet.
+[HEADER]Swamp
+A type of wetland that is dominated by woody vegetation and does not accumulate appreciable peat deposits. Swamps may be fresh water or saltwater and tidal or non-tidal.
+[HEADER]System
+The entire system of sewage collection, treatment, and disposal. “onsite system” means a system for treating domestic sewage that uses one or more treatment methods and a discharge area, but does not include a holding tank or a privy;

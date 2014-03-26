@@ -1,0 +1,9 @@
+[SECTION] Z
+[HEADER]Zone 
+A portion of a subsurface wastewater infiltration system that is separately managed as a single unit. Zones may be dosed sequentially or at the same time. 
+[HEADER]Zone of dispersal
+The permeable layers of soil or rock material surrounding the zone of treatment through which the effluent moves away from the final treatment and dispersal component.
+[HEADER]Zone of saturation
+A subsurface zone in which all the pores or the material are filled with groundwater under pressure greater than atmospheric pressure.
+[HEADER]Zone of treatment
+The soil or fill material below or around the infiltrative surface which removes pollutants from effluent, also known as biozone.

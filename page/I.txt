@@ -1,0 +1,28 @@
+[SECTION] I
+[HEADER]Impermeable
+Hydraulic conductivity of zero. For onsite systems, a K of 1 x 10-7 cm/s is considered to be impermeable.
+[HEADER]Inceptisols
+Young soils. A term used to refer to weakly developed (colluvium or Residuum) soils that have weathered from shale or interbedded shale/sandstone or shale/limestone parent material. 
+[HEADER]Infiltration
+The movement of water into soil or porous rock. Infiltration occurs as water flows through the larger pores of rock or between soil particles under the influence of gravity, or as a gradual wetting of small particles by capillary action.
+[HEADER]Infiltration in a system
+Either
+1) Unplanned inflow of water into an onsite system component; or 
+2) entry of water or effluent into the soil or other 
+[HEADER]Infiltrative Surface
+The original soil interface at the bottom of the trench or under the distribution pipes; in mound systems, or beds. 
+[HEADER]Influent
+Wastewater, partially or completely treated, or in its natural state (raw wastewater, sewage), flowing into a reservoir, tank, treatment unit, or dispersal unit.
+[HEADER]Inorganic
+Non carbon-based molecules such as minerals and salts.
+[HEADER]Inspector
+1) means a building inspector, or a public health inspector;
+2) a person who inspects a system to provide reports to owners or other parties. 
+[HEADER]Interception drain (interceptor drain)
+Subsurface drain used to intercept and divert laterally moving groundwater to an effective outlet. May also include surface swale.
+[HEADER]Instantaneous loading rate
+Quantity of effluent discharged during a dosing event expressed as volume per unit time.
+[HEADER]Interceptor
+A receptacle that is designed and installed to prevent oil, grease, sand or other materials from passing into a drainage system. 
+[HEADER]Invert (pipe)
+Lowest point of the internal cross-section of a pipe or fitting.

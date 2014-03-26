@@ -1,0 +1,29 @@
+[SECTION] L
+[HEADER]LPP or LPD
+Low pressure pipe distribution, term for pressure distribution.
+[HEADER]Lagoon system
+Onsite system incorporating a lagoon, usually with earth berms, used to contain or treat effluent or sewage. 
+[HEADER]Lake
+Any inland body of standing water, usually fresh water, larger than a pool or pond; a body of water filling a depression in the earth’s surface.
+[HEADER]Laminar (groundwater flow)
+Used to describe flat, sheet-like ground water flows that migrate laterally along the upper surface of a confining layer of soil or rock. 
+[HEADER]Landscape position
+Specific geomorphic component of the landscape in which a site is located; two-dimensional landscape positions (hillslope profile positions) may be summit, shoulder, backslope, footslope, or toeslope; three dimensional views of geomorphic landscape position can be described as head slope, nose slope, sideslope, base slope, etc.
+"[DefinitionsImage2]"
+"[DefinitionsImage3]"
+[HEADER]Lateral
+Perforated pipe or tubing used to carry and distribute effluent.
+[HEADER]Latrine
+A structure used for disposal of human waste without the aid of water; it consists of a shelter built above a pit or vault in the ground into which human waste falls. The vault may be impermeable (vault privy) or may include soil absorption (pit latrine or pit privy).
+[HEADER]Leaching
+The removal of soluble organic and inorganic substances from the topsoil downward by the action of percolating water.
+[HEADER]Lignin
+A complex chemical compound most commonly derived from wood (forms about 30% of the dry weight of wood) and an integral part of the cell walls of plants
+[HEADER]Limiting layer
+A restrictive layer or water table or seasonal high water table.
+[HEADER]Living space
+The total net floor area of a building less the floor area of a garage, breezeway, carport, crawl space or decks exterior to the building’s foundation walls.
+[HEADER]Loam
+A specific class of soil texture that contains a balanced mixture of sand, silt and clay.  Clay must not exceed 27%.  Loams have enough sand to feel some grit and enough clay to give the soil some body, but the properties and behavior of the soil are dominated by neither sand nor clay.
+[HEADER]Long-term acceptance rate (LTAR)
+The rate of effluent infiltration that the surface of a final treatment and dispersal component is at equilibrium. HLR is based upon consideration of the LTAR.

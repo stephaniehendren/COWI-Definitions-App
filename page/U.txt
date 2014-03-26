@@ -1,0 +1,9 @@
+[SECTION] U
+[HEADER]Unconfined aquifer
+An aquifer containing water that is not under pressure; the water level in a well is the same as the water table outside the well.
+[HEADER]Uniformity coefficient (particle size distribution)
+As used for determining grading of sands. CU: a numeric quantity which is calculated by dividing the size of the opening which will pass 60% of a sample by the size of the opening which will pass 10% of the sample. (symbolically C60/C10=CU)
+[HEADER]Unsaturated flow
+Movement of water in a soil that is not filled to capacity with water. 
+[HEADER]Unsaturated soil
+Soil in which the pore spaces contain water at less than atmospheric pressure, as well as air and other gases.

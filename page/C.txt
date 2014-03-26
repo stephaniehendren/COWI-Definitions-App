@@ -1,0 +1,123 @@
+[SECTION] C
+[HEADER]Carbonic Acid
+This has the formula H2CO3. It may be formed by carbon dioxide dissolving in water making a solution which contain small amounts of H2CO3.
+
+This acid is important for weathering, forming from carbon dioxide in the air in rain and ground waters. Cavitation:  May occur in centrifugal pumps that when the pump creates a partial vacuum at the intake (due to excessive intake head losses or other factors); reduced internal pressure causes gases to expand and form bubbles around the impeller; and the bubbles violently implode,  which can erode the impeller.
+[HEADER]Cemented (soil)
+Having a hard, brittle consistence because the particles are held together by cementing substances such as humus, calcium carbonate, or the oxides of silicon, iron, and aluminum. The hardness and brittleness persist even when the soil is wet. Usually forms at or near seasonal ground water levels. 
+[HEADER]Centralized wastewater treatment system
+A wastewater collection and treatment system that consists of collection sewers and a centralized treatment facility. Centralized systems are used to collect and treat wastewater from entire communities. 
+[HEADER]Cess pit
+Dry well which receives sewage.
+[HEADER]Chemical oxygen demand (COD)
+A measure of oxygen use equivalent to the portion of organic matter that is susceptible to oxidation by a strong chemical oxidizing agent. 
+[HEADER]Chemical Weathering
+Weathering by chemicals breaking down the material 
+[HEADER]Chisel plow
+Shank tillage implement that disrupts the soil, used to scarify basal area for sand mounds etc.
+[HEADER]Chlorine, combined available
+Chlorine that has combined with ammonia in wastewater to form chloramines; although they are slow-reacting, chloramines serve as disinfectants.
+[HEADER]Chlorine, free available
+Quantity of hypochlorous acid (HOCl) and hypochlorite ions (OCl-) present; the relative distribution of these is affected by pH and temperature. Lower pH favours Hypochlorous acid which is a more effective disinfectant.
+[HEADER]Chlorine residual
+The total amount of chlorine (combined and free available chlorine) remaining in water, sewage, or industrial wastes at the end of a specified contact period following disinfection. 
+[HEADER]Chroma
+Relative purity, strength, or saturation of a color; directly related to the dominance of the determining wavelength of the light and inversely related to grayness; one of the three variables of color.
+[HEADER]Clarification
+Process or combination of processes that uses separation (settling and floatation) to reduce the amount of suspended matter in wastewater.
+[HEADER]Clarifiers
+Settling tanks that typically remove settleable solids by gravity. 
+[HEADER]Clay
+A textural class of soils consisting of particles less than 0.002 millimetres in diameter. 
+[HEADER]Clear zone
+Part of a treatment plant or septic tank that contains clarified wastewater.
+[HEADER]Cluster system
+A wastewater collection and treatment system under some form of common ownership and management that provides treatment and dispersal/discharge of wastewater from two or more homes or buildings but less than an entire community. 
+[HEADER]Coarse fragments
+Coarse gravel is defined as the portion of the soil consisting of gravel particles larger than 20 mm and up to 75 mm. Rock fragments larger than gravel are those over 75 mm in size. In terms of the USDA soil profile evaluation standards, texture modifiers are applied to texture classes according to the following table.
+
+"[DefinitionsImage1]"
+
+Fragments are classed as: Fine gravel, 2 to 5 mm, medium gravel 5 to 20 mm and coarse gravel 20 to 75 mm. Cobbles 76 to 250 mm, Stones 205 to 600 mm and Boulders over 600 mm.
+[HEADER]Coefficient of uniformity (soil or sand)
+This ratio is a numeric representation of how a soil or sand is graded, calculated as Cu = D60/D10 .
+[HEADER]Coliform bacteria
+A group of bacteria predominantly inhabiting the intestines of humans or other warm-blooded animals, but also occasionally found elsewhere. Used as an indicator of human fecal contamination. Normally Fecal coliforms are used as the key indicator.  Usually measured as number of colonies/100 mL or most probably number (MPN).
+[HEADER]Collection system
+See Sewage collection system.
+[HEADER]Colloids
+The solids fraction that is described as the finely divided suspended matter that will not settle by gravity and is too large to be considered dissolved matter. 
+[HEADER]Colluvial (soil)
+Soil which consists of mixed deposits of rock fragments and soil materials accumulated at the bases of slopes) through the influence of  gravity (and weathering).
+[HEADER]Colony-forming unit (CFU)
+Term used to report the estimated number of live non-photosynthetic bacteria in a water sample.
+[HEADER]Community well
+For the purpose of determining horizontal setbacks means a well or well group supplying a water supply system providing potable water supply to more than 500 persons. 
+[HEADER]Compliance boundary
+A performance boundary with defined performance limits (example a drinking water well). 
+[HEADER]Confined Aquifer
+An aquifer in which ground water is confined under pressure which is significantly greater than atmospheric pressure.
+[HEADER]Consistence (soil)
+Attribute of soil expressed in degree of cohesion and adhesion, or in resistance to deformation or rupture. Consistence includes the resistance of soil material to rupture; resistance to penetration; and the manner in which the soil material behaves when subjected to compression. The below table shows relevant categories.
+[sub header] Consistence (partial table) from USDA Field Handbook
+
+
+Dry
+
+Moist
+
+Cementation
+
+~30 mm block Specimen fails under what force?
+Loose (L)
+
+Loose (L)
+
+NA
+
+Intact specimen not obtainable
+Soft (S)
+
+Very Friable (VFR)
+
+Non-cemented
+
+Very slight force between fingers (<8N)
+Slightly Hard (SH)
+
+Friable (FR)
+
+Extremely weakly cemented (EW)
+
+Slight force between fingers (8 to  <20N)
+Moderately Hard (MH)
+Firm (FI)
+
+Very weakly cemented (VW)
+
+Moderate force between fingers (20 to  <40N)
+Hard (HA)
+
+Very Firm (VFI)
+
+Weakly cemented (W)
+
+Strong force between fingers (40 to <80N)
+
+[SUB HEADER]Construct includes 
+(a)	to plan, design or conduct a site assessment in respect of an onsite system, 
+(b)	to install, repair or alter an onsite system, and 
+(c)	in the case of a professional, to supervise the doing of any matter listed in 	paragraphs (a) and (b);
+
+[HEADER]Constructed wetland
+An aquatic treatment system consisting of one or more lined or unlined basins, some or all of which may be filled with a treatment medium and wastewater undergoing some combination of physical, chemical, and/or biological treatment and evaporation and evapotranspiration by means of macrophytes planted in the treatment medium. 
+[HEADER]Contaminant
+Any physical, chemical, biological, or radiological substance or matter that has an adverse effect on air, water, or soil.
+[HEADER]Continuous-flow, suspended-growth aerobic system
+A typical activated sludge process. 
+[HEADER]Cross-over pipe
+Solid pipe used in serial or sequential distribution to connect trenches at the same elevation. (A Relief pipe is used when stepping down to the next trench).
+[HEADER]CSA
+Canadian Standards Group (CSA) Group is a not-for-profit membership-based association serving business, industry, government and consumers in Canada and the global marketplace. CSA develops standards for products and services used in the onsite industry as well as others.
+[HEADER]Curtain drain
+Subsurface drain used to intercept and divert laterally moving groundwater to an effective outlet. Also referred to as an interception drain.

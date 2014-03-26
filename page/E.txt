@@ -1,0 +1,35 @@
+[SECTION] E
+[HEADER]Ecosystem
+A system formed by the interaction of a group of organisms and their environment.
+[HEADER]Effluent
+Sewage, water, or other liquid, partially or completely treated or in its natural state, flowing out of a septic tank or treatment unit.
+[HEADER]Effective size
+In a sieve analysis, the particle diameter of which 10 percent of the sample is finer by weight; also known as D10 or effective diameter.
+[HEADER]Effluent filter (also called an effluent screen)
+A removable, cleanable device inserted into the outlet piping of the septic tank designed to trap excessive solids due to tank upsets that would otherwise be transported to the subsurface wastewater infiltration system or other downstream treatment components. 
+[HEADER]Endogenous phase
+Describes stage of the aerobic digestion process when much of the organic matter is used up and cells begin to feed on dead bacteria and other bacteria to grow. This is also known as the “death phase”.
+[HEADER]Endosaturation
+A condition in which the soil is saturated with water in all layers from the upper boundary of saturation to a depth of 2 m or more from the mineral soil surface;
+[HEADER]Engineered design
+An onsite or decentralized cluster system that is designed to meet specific performance requirements for a particular site as certified by a licensed professional engineer or qualified, licensed or certified person. 
+[HEADER]Environmental sensitivity
+The relative susceptibility to adverse impacts of a water resource or other environments that may receive wastewater discharges. 
+[HEADER]Episaturation
+Zone of saturation held above the main groundwater body by a slowly-permeable layer, or by impermeable rock or sediment. Known as Perched Water table.
+[HEADER]Eukaryotes
+Organisms whose cells are organized into complex structures by internal membranes and a cytoskeleton. The most characteristic membrane bound structure is the nucleus. This feature gives them their name. Animals, plants, fungi, and protists are eukaryotes.
+[HEADER]Eutrophic
+A term applied to water that has a concentration of nutrients optimal for plant or animal growth. In general, nitrogen and phosphorous compounds contribute to eutrophic conditions in coastal and inland fresh waters, respectively and causes reduction in oxygen concentration due to overgrowth of plants such as algae.
+[HEADER]Eutrophic lake
+Shallow, murky bodies of water that have excessive concentrations of plant nutrients causing excessive algal production.
+[HEADER]Eutrophication
+The natural process by which lakes and ponds become enriched with dissolved nutrients, resulting in increased growth of algae and other microscopic plants. 
+[HEADER]Evaporation
+The process by which a liquid changes to a vapour.
+Evapotranspiration
+The combined loss of water from a given area and during a specified period of time by evaporation from the soil or water surface and by transpiration from plants. 
+[HEADER]Evapotranspiration bed (ET bed)
+Dispersal bed designed with a continuous, impermeable bed liner so that it solely uses evaporation and transpiration for dispersal of effluent. 
+[HEADER]Evapotranspiration/absorption bed (ETA bed)
+Dispersal bed with an unlined bed using evaporation, transpiration, and absorption for dispersal of effluent. Also termed evapotranspiration infiltration bed (ETI bed).

@@ -1,0 +1,62 @@
+[SECTION] A
+[HEADER] Above Grade
+Subsurface wastewater infiltration system with the infiltrative surface raised above the original grade on sand, but where the system does not meet the standards for a sand mound. 
+[HEADER]Absorption
+The process by which one substance is taken into and included within another substance, such as the absorption of water by soil or nutrients by plants. 
+[HEADER] Act means the OBC
+Ontario Building Code Act
+[HEADER] Activated sludge process
+A biological wastewater treatment process in which biologically active sludge is agitated and aerated with incoming wastewater. The activated sludge is subsequently separated from the treated wastewater (mixed liquor) by sedimentation, and most of it is returned to the process. The rest is wasted as needed. 
+[HEADER] Adsorption
+The adherence of a dissolved solid to the surface of a solid. Viruses may also be adsorbed to soil particles.
+[HEADER]Aerobes and Anaerobes (Microorganisms)
+Bacteria and other organisms may be categorized based on whether they require oxygen for metabolism:
+[sub header] Obligate aerobes require oxygen for aerobic cellular respiration, using oxygen to oxidize substrates (for example sugars) in order to obtain energy. 
+[sub header] Facultative aerobes or anaerobes can use oxygen when it is present, and then use fermentation or anaerobic respiration when it is absent or in low concentrations. 
+[sub header] Microaerophiles are organisms that may use oxygen, but only at low concentrations. 
+[sub header] Aero tolerant organisms can survive in the presence of oxygen, but they are anaerobic
+[sub header] Obligate anaerobes will die when exposed to atmospheric levels of oxygen, these use fermentation or anaerobic respiration. 
+[HEADER]Aerobic
+Having molecular oxygen as a part of the environment, or growing or occurring only in the presence of molecular oxygen, as in “aerobic organisms.” 
+[HEADER]Aerobic process
+Biological treatment processes that occur in the presence of molecular oxygen, also termed “Oxic”.
+[HEADER]Aerobic treatment unit (ATU)
+A mechanical onsite treatment unit that provides secondary wastewater treatment by mixing air (oxygen) and aerobic and facultative microbes with the wastewater. ATUs typically use a suspended growth treatment process (similar to activated sludge extended aeration) or a fixed film treatment process (similar to trickling filter). 
+[HEADER]Algae
+Simple rootless plants that grow in sunlit waters in relative proportion to the amounts of nutrients available. They can affect water quality adversely by lowering the dissolved oxygen in the water. They are food for fish and small aquatic animals.
+[HEADER]Algae blooms
+Rapid growth of algae on the surface of lakes, streams, or ponds; stimulated by nutrient enrichment. 
+[HEADER]Alkali
+Any strongly basic substance of hydroxide and carbonate, such as soda, potash, etc., that is soluble in water and increases the pH of a solution.
+[HEADER]Alluvial soil
+Soil developing from recently deposited alluvium and exhibiting essentially no horizon development or modification of the recently deposited materials. When capitalized, the term refers to a great soil group of the azonal order consisting of soils with little or no modification of the recent sediment in which they are forming.
+[HEADER]Alluvium
+Sediments deposited by running water of streams and rivers; may occur on terraces well above present streams, on the present flood plains or deltas, or as a fan at the base of a slope.
+[HEADER]Alternating
+Subsurface wastewater infiltration system that is comprised of two or multiple dispersal beds operated so that each one is used for a period and rested for a period. 
+[HEADER]Anaerobic
+Characterized by the absence of molecular oxygen (O2), or growing in the absence of molecular oxygen (as in “anaerobic bacteria”). 
+[HEADER]Anaerobic process
+Biological treatment processes that occur in the absence of molecular oxygen.
+[HEADER]Anaerobic up-flow filter
+A high-specific-surface anaerobic reactor filled with a solid media through which wastewater flows; used to pre-treat high strength wastewater or to denitrify nitrified wastewater. 
+[HEADER]Anoxic process
+A wastewater treatment step or process in which oxygen is depleted. 
+[HEADER]Aquatic ecosystem
+Basic ecological unit composed of living and nonliving elements interacting in an aqueous milieu. 
+[HEADER]Aquifer
+a) the underground layer of saturated sand and rock that acts as a water source for a well; described as artesian (confined) or water table (unconfined). b) A geologic formation, group of formations, or part of a formation that is saturated and sufficiently permeable to transmit quantities of water to wells and springs.
+[HEADER]Area of Infiltrative Surface (AIS)
+Infiltrative surface area receiving effluent from the distribution system.
+[HEADER]Areal loading rate
+Quantity of effluent applied to the footprint of the soil treatment area (or the absorption area of an above-grade system) expressed as volume per area per unit time, e.g., gallons per day per square foot (gpd/sq.ft.)
+[HEADER]ASTM
+American Society for Testing Materials
+[HEADER]At grade
+Installed with the all or parts of the infiltrative surface at the level of the original soil surface. The system is typically covered with fill (rather than C33 sand).
+[HEADER]Authorized person (AP)
+A registered practitioner or a professional.
+[HEADER]Autochthon
+A sediment or rock that can be found at its site of formation or deposition, as opposed to an allochthon, which has moved from that site. 
+[HEADER]Autotrophs
+Organisms that produces complex organic compounds from simple molecules and an external source of energy, such as light (plants) or chemical reactions of inorganic compounds (nitrifying bacteria). Autotrophs are seen as producers in a food chain).
